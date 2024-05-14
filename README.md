@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murat</h1>
- [![MasterHead](https://www.google.com/search?q=frontend+react++g%C3%B6rsel&tbm=isch&ved=2ahUKEwi277S5oY6GAxXn4gIHHesKCxAQ2-cCegQIABAA&oq=frontend+react++g%C3%B6rsel&gs_lp=EgNpbWciF2Zyb250ZW5kIHJlYWN0ICBnw7Zyc2VsSOIdUOgGWNUXcAB4AJABAJgBzAGgAccKqgEFMC42LjK4AQPIAQD4AQGKAgtnd3Mtd2l6LWltZ8ICBBAjGCeIBgE&sclient=img&ei=Gu9DZrb6GufFi-gP65WsgAE&bih=607&biw=1366&prmd=ivnbtz&rlz=1C1CHBD_trTR1095TR1096#imgrc=Ww8pA3bIp3SisM)
+
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **React**
