@@ -2,9 +2,9 @@
 
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **React, React Native**
 
-- 💬 Ask me about **react,react Native**
+- 💬 Ask me about **React, React Native**
 
 - 📫 How to reach me **muratkull44@gmail.com**
 
